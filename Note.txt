@@ -1,0 +1,15 @@
+Git & Github
+Acc: daovan1987/hai
+
+Địa chỉ repo
+https://github.com/daovan1987/FirstRepo.git
+
+-----------------Command -----------------------
+
+…or create a new repository on the command line
+echo "# FirstRepo" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/daovan1987/FirstRepo.git
+git push -u origin master
